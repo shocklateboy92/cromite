@@ -180,3 +180,5 @@ if (target_os == "linux") {
   use_sysroot = true
   chrome_pgo_phase = 2 # enable pgo
 }
+
+is_java_debug = false
