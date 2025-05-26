@@ -15,6 +15,9 @@ Bromite-subresource-adblocker.patch
 # 129
 Experimental-user-scripts-support.patch
 
+# 234
+Cromite-Branding.patch
+
 # 259
 Disable-Android-AppRestrictions.patch
 
