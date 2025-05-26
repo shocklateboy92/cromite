@@ -12,6 +12,9 @@ Add-a-proxy-configuration-page.patch
 # 82
 Bromite-subresource-adblocker.patch
 
+# 118
+User-agent-customization.patch
+
 # 129
 Experimental-user-scripts-support.patch
 
