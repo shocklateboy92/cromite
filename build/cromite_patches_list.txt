@@ -1,7 +1,24 @@
+# Comments contain line numbers of the original file
+
+# 3
+bromite-build-utils.patch
+
+# 4
+Add-cromite-flags-support.patch
+
+# 62
+Add-a-proxy-configuration-page.patch
+
+# 82
 Bromite-subresource-adblocker.patch
 
+# 129
 Experimental-user-scripts-support.patch
 
+# 259
+Disable-Android-AppRestrictions.patch
+
+# 316
 # adblock patches
 eyeo-133.0.6943.49-base.patch
 eyeo-133.0.6943.49-chrome_integration.patch
