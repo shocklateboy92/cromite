@@ -1,3 +1,7 @@
+Bromite-subresource-adblocker.patch
+
+Experimental-user-scripts-support.patch
+
 # adblock patches
 eyeo-133.0.6943.49-base.patch
 eyeo-133.0.6943.49-chrome_integration.patch
@@ -5,6 +9,3 @@ eyeo-133.0.6943.49-android_api.patch
 eyeo-133.0.6943.49-android_settings.patch
 eyeo-133.0.6943.49-extension_api.patch
 Eyeo-Adblock-for-Cromite.patch
-
-Experimental-user-scripts-support.patch
-Bromite-subresource-adblocker.patch
